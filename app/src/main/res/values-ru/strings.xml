@@ -25,8 +25,8 @@
     <string name="emulator">Эмулятор</string>
     <string name="search_location">Путь для поиска</string>
     <string name="open_data_directory">Просмотр внутренний директории</string>
-    <string name="open_data_directory_summary">Открывает внутреннию директорию Skyline в файловом менеджере</string>
-    <string name="failed_open_directory">Не удается найти внешний файловый менеджер для открытия внутренний директории Skyline</string>
+    <string name="open_data_directory_summary">Открывает внутреннию директорию Strato в файловом менеджере</string>
+    <string name="failed_open_directory">Не удается найти внешний файловый менеджер для открытия внутренний директории Strato</string>
     <string name="theme">Тема</string>
     <string name="layout_type">Схема отображения игр</string>
     <string name="sort_apps_by">Порядок сортировки игр</string>
@@ -195,10 +195,10 @@
     <string name="credits">Благодарности</string>
     <!-- Licenses -->
     <string name="licenses">Лицензии</string>
-    <string name="skyline_license_description">Skyline находится под лицензией Mozilla Public License 2.0.</string>
-    <string name="ryujinx_description">Ryujinx использовался как пример на протяжении всего проекта из-за его высокоточной реализации\n\n<b>Примечание: Skyline не основан на Ryujinx.</b></string>
-    <string name="shader_compiler_description">Компилятор шейдеров Skyline это <b>форк</b>  компилятора шейдеров <i>yuzu</i>, с специфическими изменениями для Skyline, в то время как другие изменения передаются их команде, позволяя обоим проектам иметь выгоду с разработки<b>Примечание:</b> его использование в Skyline возможно только из-за исключения из лицензирования, которую выдали команде Skyline от команды <i>yuzu</i></string>
-    <string name="sirit_description">Компилятор шейдеров Skyline внутренне использует Sirit для эффективной эмиссии SPIR-V</string>
+    <string name="strato_license_description">Strato находится под лицензией Mozilla Public License 2.0.</string>
+    <string name="ryujinx_description">Ryujinx использовался как пример на протяжении всего проекта из-за его высокоточной реализации\n\n<b>Примечание: Strato не основан на Ryujinx.</b></string>
+    <string name="shader_compiler_description">Компилятор шейдеров Strato это <b>форк</b>  компилятора шейдеров <i>yuzu</i>, с специфическими изменениями для Strato, в то время как другие изменения передаются их команде, позволяя обоим проектам иметь выгоду с разработки<b>Примечание:</b> его использование в Strato возможно только из-за исключения из лицензирования, которую выдали команде Strato от команды <i>yuzu</i></string>
+    <string name="sirit_description">Компилятор шейдеров Strato внутренне использует Sirit для эффективной эмиссии SPIR-V</string>
     <string name="vkhpp_description">Vulkan-Hpp предоставляет API C++ для Vulkan</string>
     <string name="vkma_description">Vulkan Memory Allocator предоставляет высококачественный распределитель памяти GPU с поддержкой UMA</string>
     <string name="khvkval_description">Khronos\'s Vulkan Validation Layer обеспечивает проверку ошибок для вызовов API Vulkan в отладочных сборках</string>

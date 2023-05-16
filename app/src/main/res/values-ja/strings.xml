@@ -195,7 +195,7 @@
     <string name="credits">クレジット</string>
     <!-- Licenses -->
     <string name="licenses">ライセンス</string>
-    <string name="skyline_license_description">スカイラインはMozilla Public License 2.0下でライセンスされています</string>
+    <string name="strato_license_description">スカイラインはMozilla Public License 2.0下でライセンスされています</string>
     <string name="ryujinx_description">スカイラインは高精度なRyujinxを参考に作られています
 注意：スカイラインはRyujinxに基づいているわけではありません</string>
     <string name="shader_compiler_description">スカイラインのシェーダーコンパイラは、yuzuのシェーダーコンパイラをスカイラインに最適化したものです。両方のエミュレータに共通する部分は、お互いにシェアし、各エミュレータの開発を支え合うようにしています。

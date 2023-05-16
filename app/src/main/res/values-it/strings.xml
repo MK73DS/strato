@@ -195,10 +195,10 @@
     <string name="credits">Crediti</string>
     <!-- Licenses -->
     <string name="licenses">Licenze</string>
-    <string name="skyline_license_description">Skyline è disponibile secondo la licenza Mozilla Public License 2.0</string>
-    <string name="ryujinx_description">Ryujinx è stato utilizzato come punto di riferimento per molte parti del progetto per via delle sue implementazioni altamente accurate\n\n<b>Nota: Skyline non è basato su Ryujinx</b></string>
-    <string name="shader_compiler_description">Il compilatore di shader di Skyline è un <b>fork</b> del compilatore di shader di <i>yuzu</i> con modifiche specifiche per Skyline. Tutte le altre modifiche sono invece condivise permettendo a entrambi i progetti di trarre vantaggio dal suo sviluppo\n\n<b>Nota:</b> Il suo utilizzo in Skyline è possibile solo grazie all\'esenzione dalla licenza concessa a Skyline dal team di <i>yuzu</i></string>
-    <string name="sirit_description">Il compilatore shader di Skyline utilizza internamente Sirit per generare SPIR-V in modo efficiente</string>
+    <string name="strato_license_description">Strato è disponibile secondo la licenza Mozilla Public License 2.0</string>
+    <string name="ryujinx_description">Ryujinx è stato utilizzato come punto di riferimento per molte parti del progetto per via delle sue implementazioni altamente accurate\n\n<b>Nota: Strato non è basato su Ryujinx</b></string>
+    <string name="shader_compiler_description">Il compilatore di shader di Strato è un <b>fork</b> del compilatore di shader di <i>yuzu</i> con modifiche specifiche per Strato. Tutte le altre modifiche sono invece condivise permettendo a entrambi i progetti di trarre vantaggio dal suo sviluppo\n\n<b>Nota:</b> Il suo utilizzo in Strato è possibile solo grazie all\'esenzione dalla licenza concessa a Strato dal team di <i>yuzu</i></string>
+    <string name="sirit_description">Il compilatore shader di Strato utilizza internamente Sirit per generare SPIR-V in modo efficiente</string>
     <string name="vkhpp_description">Vulkan-Hpp fornisce un\'API C++ per Vulkan</string>
     <string name="vkma_description">Vulkan Memory Allocator fornisce un allocatore di memoria per la GPU di alta qualità che supporta l\'UMA</string>
     <string name="khvkval_description">Il Vulkan Validation Layer di Khronos fornisce il controllo degli errori per le chiamate API Vulkan nelle build di debug</string>

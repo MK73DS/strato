@@ -3,7 +3,7 @@
  * Copyright © 2023 Strato Team and Contributors (https://github.com/strato-emu/)
  */
 
-package emu.skyline.model
+package emu.strato.model
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData

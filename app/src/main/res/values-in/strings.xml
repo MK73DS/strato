@@ -25,8 +25,8 @@
     <string name="emulator">Emulator</string>
     <string name="search_location">Lokasi Pencarian</string>
     <string name="open_data_directory">Lihat Direktori Internal</string>
-    <string name="open_data_directory_summary">Buka Direktori Skyline di manajemen berkas</string>
-    <string name="failed_open_directory">Tidak dapat mencari aplikasi manajemen berkas untuk membuka direktori Skyline</string>
+    <string name="open_data_directory_summary">Buka Direktori Strato di manajemen berkas</string>
+    <string name="failed_open_directory">Tidak dapat mencari aplikasi manajemen berkas untuk membuka direktori Strato</string>
     <string name="theme">Tema</string>
     <string name="layout_type">Letak Tampilan Game</string>
     <string name="sort_apps_by">Sortir Urutan Game</string>
@@ -195,10 +195,10 @@
     <string name="credits">Kredit</string>
     <!-- Licenses -->
     <string name="licenses">Lisensi</string>
-    <string name="skyline_license_description">Skyline dilisensikan dibawah Mozilla Public License 2.0</string>
-    <string name="ryujinx_description">Ryujinx menjadi referensi selama proses pengerjaan dikarenakan implementasi mereka yang lebih akurat\n\n<b>Catatan: Skyline tidak berbasis dari Ryijinx </b></string>
-    <string name="shader_compiler_description">Shader kompiler Skyline menggunakan <b>proyek</b> shader compiler <i>yuzu</i> yang telah di modifikasi sementara perubahan lain dibagi di antara mereka yang memungkinkan kedua proyek mendapat manfaat dari pengembangannya\n\n<b>Catatan:</b> Menggunakannya di Skyline hanya dimungkinkan karena pembebasan lisensi yang diberikan oleh tim <i>yuzu</i> kepada Skyline</string>
-    <string name="sirit_description">Shader komplier Skyline menggunakan \"Sirit\" untuk memancarkan \"SPIR-V\" secara efisien</string>
+    <string name="strato_license_description">Strato dilisensikan dibawah Mozilla Public License 2.0</string>
+    <string name="ryujinx_description">Ryujinx menjadi referensi selama proses pengerjaan dikarenakan implementasi mereka yang lebih akurat\n\n<b>Catatan: Strato tidak berbasis dari Ryijinx </b></string>
+    <string name="shader_compiler_description">Shader kompiler Strato menggunakan <b>proyek</b> shader compiler <i>yuzu</i> yang telah di modifikasi sementara perubahan lain dibagi di antara mereka yang memungkinkan kedua proyek mendapat manfaat dari pengembangannya\n\n<b>Catatan:</b> Menggunakannya di Strato hanya dimungkinkan karena pembebasan lisensi yang diberikan oleh tim <i>yuzu</i> kepada Strato</string>
+    <string name="sirit_description">Shader komplier Strato menggunakan \"Sirit\" untuk memancarkan \"SPIR-V\" secara efisien</string>
     <string name="vkhpp_description">Vulkan-Hpp menyediakan C++ API untuk Vulkan</string>
     <string name="vkma_description">Memori Alokator Vulkan menyediakan memori alokator GPU berkualitas tinggi dengan dukungan UMA</string>
     <string name="khvkval_description">Lapisan Validasi Vulkan Khrono menyediakan pengecek error untuk Vulkan API calls di build debug</string>

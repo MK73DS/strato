@@ -25,8 +25,8 @@
     <string name="emulator">에뮬레이터</string>
     <string name="search_location">위치 검색</string>
     <string name="open_data_directory">내부 디렉토리 보기</string>
-    <string name="open_data_directory_summary">파일 관리자에서 Skyline의 내부 디렉토리를 엽니다</string>
-    <string name="failed_open_directory">Skyline의 내부 디렉토리를 여는 외부 파일 관리자를 찾을 수 없습니다</string>
+    <string name="open_data_directory_summary">파일 관리자에서 Strato의 내부 디렉토리를 엽니다</string>
+    <string name="failed_open_directory">Strato의 내부 디렉토리를 여는 외부 파일 관리자를 찾을 수 없습니다</string>
     <string name="theme">테마</string>
     <string name="layout_type">게임 디스플레이 레이아웃</string>
     <string name="sort_apps_by">게임 정렬 순서</string>
@@ -198,10 +198,10 @@
     <string name="credits">크레딧</string>
     <!-- Licenses -->
     <string name="licenses">라이선스</string>
-    <string name="skyline_license_description">Skyline은 Mozilla Public License 2.0에 따라 사용이 허가되었습니다.</string>
-    <string name="ryujinx_description">Ryujinx는 매우 정확한 구현으로 인해 프로젝트 전체에서 참조용으로 사용되었습니다.\n\n<b>참고: Skyline은 Ryujinx</b>을 기반으로 하지 않습니다.</string>
-    <string name="shader_compiler_description">Skyline의 셰이더 컴파일러는 Skyline 관련 변경 사항이 있는 <i>yuzu</i>의 셰이더 컴파일러 중 <b>fork</b>이며 다른 변경 사항은 두 프로젝트 간에 공유되어 두 프로젝트가 개발 혜택을 누릴 수 있습니다.\n\n<b>참고:</b> Skyline에서 사용하는 것은 라이선스 면제로 인해 가능합니다. <i>yuzu</i> 팀이 스카이라인에 부여</string>
-    <string name="sirit_description">Skyline의 셰이더 컴파일러는 내부적으로 Sirit를 사용하여 효율적인 방식으로 SPIR-V를 방출합니다.</string>
+    <string name="strato_license_description">Strato은 Mozilla Public License 2.0에 따라 사용이 허가되었습니다.</string>
+    <string name="ryujinx_description">Ryujinx는 매우 정확한 구현으로 인해 프로젝트 전체에서 참조용으로 사용되었습니다.\n\n<b>참고: Strato은 Ryujinx</b>을 기반으로 하지 않습니다.</string>
+    <string name="shader_compiler_description">Strato의 셰이더 컴파일러는 Strato 관련 변경 사항이 있는 <i>yuzu</i>의 셰이더 컴파일러 중 <b>fork</b>이며 다른 변경 사항은 두 프로젝트 간에 공유되어 두 프로젝트가 개발 혜택을 누릴 수 있습니다.\n\n<b>참고:</b> Strato에서 사용하는 것은 라이선스 면제로 인해 가능합니다. <i>yuzu</i> 팀이 스카이라인에 부여</string>
+    <string name="sirit_description">Strato의 셰이더 컴파일러는 내부적으로 Sirit를 사용하여 효율적인 방식으로 SPIR-V를 방출합니다.</string>
     <string name="vkhpp_description">Vulkan-Hpp는 Vulkan용 C++ API를 제공합니다.</string>
     <string name="vkma_description">Vulkan 메모리 할당자는 UMA를 지원하는 고품질 GPU 메모리 할당자를 제공합니다.</string>
     <string name="khvkval_description">Khronos의 Vulkan Validation Layer는 디버그 빌드에서 Vulkan API 호출에 대한 오류 검사를 제공합니다.</string>

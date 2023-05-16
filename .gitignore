@@ -101,6 +101,9 @@ lint/reports/
 # Adreno Validation Layer
 libVkLayer_adreno.so
 
+# Strato logs
+*.sklog
+
 # Android Studio Profiler Traces
 *.trace
 

@@ -25,8 +25,8 @@
     <string name="emulator">Εξομοιωτής</string>
     <string name="search_location">Τοποθεσία αναζήτησης</string>
     <string name="open_data_directory">Προβολή εσωτερικού ευρετηρίου</string>
-    <string name="open_data_directory_summary">Ανοίγει το εσωτερικό ευρετήριο της Skyline σε έναν διαχειριστή αρχείων</string>
-    <string name="failed_open_directory">Δεν βρέθηκε εξωτερικός διαχειριστής αρχείων για να ανοίξει το ευρετήριο της Skyline</string>
+    <string name="open_data_directory_summary">Ανοίγει το εσωτερικό ευρετήριο της Strato σε έναν διαχειριστή αρχείων</string>
+    <string name="failed_open_directory">Δεν βρέθηκε εξωτερικός διαχειριστής αρχείων για να ανοίξει το ευρετήριο της Strato</string>
     <string name="theme">Θέμα</string>
     <string name="layout_type">Οθόνη διάταξης παιχνιδιών</string>
     <string name="sort_apps_by">Σειρά ταξινόμησης παιχνιδιών</string>
@@ -195,10 +195,10 @@
     <string name="credits">Τίτλοι τέλους</string>
     <!-- Licenses -->
     <string name="licenses">Άδειες</string>
-    <string name="skyline_license_description">Η Skyline αδειοδοτείται με την άδεια Mozilla Public License 2.0</string>
-    <string name="ryujinx_description">Το Ryujinx έχει χρησιμοποιηθεί ως αναφορά σε όλο το έργο λόγω των εξαιρετικά ακριβών εφαρμογών του\n\n<b>Σημείωση: Το Skyline δεν βασίζεται στο Ryujinx</b></string>
-    <string name="shader_compiler_description">Ο μεταγλωττιστής shader του Skyline είναι ενα<b>fork</b> του μεταγλωττιστή shader της<i>yuzu</i>με αλλαγές ειδικά για τη Skyline, ενώ άλλες αλλαγές μοιράζονται μεταξύ τους, επιτρέποντας και στα δύο έργα να επωφεληθούν από την ανάπτυξή του\n\n<b>Σημείωση:</b> Η χρήση του στη Skyline είναι δυνατή μόνο λόγω της εξαίρεσης αδειοδότησης που χορηγείται στη Skyline από την ομάδα της<i>yuzu</i></string>
-    <string name="sirit_description">Ο μεταγλωττιστής shader της Skyline χρησιμοποιεί εσωτερικά το Sirit για να εκπέμπει το SPIR-V με αποτελεσματικό τρόπο</string>
+    <string name="strato_license_description">Η Strato αδειοδοτείται με την άδεια Mozilla Public License 2.0</string>
+    <string name="ryujinx_description">Το Ryujinx έχει χρησιμοποιηθεί ως αναφορά σε όλο το έργο λόγω των εξαιρετικά ακριβών εφαρμογών του\n\n<b>Σημείωση: Το Strato δεν βασίζεται στο Ryujinx</b></string>
+    <string name="shader_compiler_description">Ο μεταγλωττιστής shader του Strato είναι ενα<b>fork</b> του μεταγλωττιστή shader της<i>yuzu</i>με αλλαγές ειδικά για τη Strato, ενώ άλλες αλλαγές μοιράζονται μεταξύ τους, επιτρέποντας και στα δύο έργα να επωφεληθούν από την ανάπτυξή του\n\n<b>Σημείωση:</b> Η χρήση του στη Strato είναι δυνατή μόνο λόγω της εξαίρεσης αδειοδότησης που χορηγείται στη Strato από την ομάδα της<i>yuzu</i></string>
+    <string name="sirit_description">Ο μεταγλωττιστής shader της Strato χρησιμοποιεί εσωτερικά το Sirit για να εκπέμπει το SPIR-V με αποτελεσματικό τρόπο</string>
     <string name="vkhpp_description">Vulkan-Hpp παρέχει ένα C++ API για Vulkan</string>
     <string name="vkma_description">Το Vulkan Memory Allocator παρέχει έναν εκχωρητή μνήμης GPU υψηλής ποιότητας με υποστήριξη UMA</string>
     <string name="khvkval_description">Το Vulkan Validation Layer του Khronos παρέχει έλεγχο σφαλμάτων για κλήσεις Vulkan API σε εκδόσεις εντοπισμού σφαλμάτων</string>

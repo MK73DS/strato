@@ -3,7 +3,7 @@
  * Copyright © 2023 Strato Team and Contributors (https://github.com/strato-emu/)
  */
 
-package emu.skyline.fragments
+package emu.strato.fragments
 
 import android.app.Dialog
 import android.os.Bundle
@@ -13,8 +13,8 @@ import androidx.fragment.app.activityViewModels
 import androidx.lifecycle.ViewModelProvider
 import com.google.android.material.dialog.MaterialAlertDialogBuilder
 import com.google.android.material.snackbar.Snackbar
-import emu.skyline.R
-import emu.skyline.model.TaskViewModel
+import emu.strato.R
+import emu.strato.model.TaskViewModel
 
 class IndeterminateProgressDialogFragment : DialogFragment() {
     private val taskViewModel : TaskViewModel by activityViewModels()

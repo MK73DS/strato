@@ -88,7 +88,7 @@
                     app:layout_constraintHorizontal_bias="0.0"
                     app:layout_constraintStart_toStartOf="@id/search_bar"
                     app:layout_constraintTop_toTopOf="parent"
-                    app:srcCompat="@drawable/skyline_text" />
+                    app:srcCompat="@drawable/strato_text" />
 
                 <TextView
                     android:id="@+id/sub_text"
@@ -103,7 +103,7 @@
                     app:layout_constraintStart_toStartOf="@+id/title_text"
                     app:layout_constraintTop_toBottomOf="@id/title_text" />
 
-                <emu.skyline.views.SearchBarView
+                <emu.strato.views.SearchBarView
                     android:id="@+id/search_bar"
                     style="@style/Widget.Material3.CardView.Elevated"
                     android:layout_width="match_parent"

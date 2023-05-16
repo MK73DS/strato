@@ -25,8 +25,8 @@
     <string name="emulator">Emulátor</string>
     <string name="search_location">Keresés helye</string>
     <string name="open_data_directory">Belső mappa megtekintése</string>
-    <string name="open_data_directory_summary">A Skyline belső mappájának megnyitása a fájlkezelőben</string>
-    <string name="failed_open_directory">Nem található külső fájlkezelő a Skyline belső mappájának megnyitásához</string>
+    <string name="open_data_directory_summary">A Strato belső mappájának megnyitása a fájlkezelőben</string>
+    <string name="failed_open_directory">Nem található külső fájlkezelő a Strato belső mappájának megnyitásához</string>
     <string name="theme">Téma</string>
     <string name="layout_type">Játékkönyvtár elrendezés</string>
     <string name="sort_apps_by">Játékok rendezési szempontja</string>
@@ -195,10 +195,10 @@
     <string name="credits">Közreműködők </string>
     <!-- Licenses -->
     <string name="licenses">Licencek</string>
-    <string name="skyline_license_description">Skyline is licensed under Mozilla Public License 2.0</string>
-    <string name="ryujinx_description">Ryujinx has been used for reference throughout the project due to their highly accurate implementations\n\n<b>Note: Skyline is not based on Ryujinx</b></string>
-    <string name="shader_compiler_description">Skyline\'s shader compiler is a <b>fork</b> of <i>yuzu</i>\'s shader compiler with Skyline-specific changes while other changes are shared between them allowing both projects to benefit from the development of it\n\n<b>Note:</b> Using it in Skyline is only possible due to the licensing exemption granted to Skyline by the <i>yuzu</i> team</string>
-    <string name="sirit_description">Skyline\'s shader compiler internally uses Sirit to emit SPIR-V in an efficient manner</string>
+    <string name="strato_license_description">Strato is licensed under Mozilla Public License 2.0</string>
+    <string name="ryujinx_description">Ryujinx has been used for reference throughout the project due to their highly accurate implementations\n\n<b>Note: Strato is not based on Ryujinx</b></string>
+    <string name="shader_compiler_description">Strato\'s shader compiler is a <b>fork</b> of <i>yuzu</i>\'s shader compiler with Strato-specific changes while other changes are shared between them allowing both projects to benefit from the development of it\n\n<b>Note:</b> Using it in Strato is only possible due to the licensing exemption granted to Strato by the <i>yuzu</i> team</string>
+    <string name="sirit_description">Strato\'s shader compiler internally uses Sirit to emit SPIR-V in an efficient manner</string>
     <string name="vkhpp_description">Vulkan-Hpp provides a C++ API for Vulkan</string>
     <string name="vkma_description">Vulkan Memory Allocator provides a high-quality GPU memory allocator with UMA support</string>
     <string name="khvkval_description">Khronos\'s Vulkan Validation Layer provides error-checking for Vulkan API calls in debug builds</string>

@@ -43,7 +43,7 @@
             app:layout_constraintEnd_toEndOf="@+id/name"
             app:layout_constraintStart_toStartOf="@id/name"
             app:layout_constraintTop_toBottomOf="@id/name"
-            tools:text="v1.0.2 by Skyline" />
+            tools:text="v1.0.2 by Strato" />
 
         <TextView
             android:id="@+id/vendor_driver_version"

@@ -10,7 +10,7 @@
         android:orientation="vertical"
         android:paddingHorizontal="2.5dp">
 
-        <emu.skyline.views.DragHandleView
+        <emu.strato.views.DragHandleView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:minHeight="40dp"
@@ -22,7 +22,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textAlignment="center"
-            tools:text="Skyline" />
+            tools:text="Strato" />
 
         <TextView
             android:id="@+id/library_url"
@@ -33,7 +33,7 @@
             android:paddingTop="6dp"
             android:textAlignment="center"
             tools:ignore="TouchTargetSizeCheck"
-            tools:text="https://github.com/skyline-emu/skyline" />
+            tools:text="https://github.com/strato-emu/strato" />
 
         <TextView
             android:id="@+id/library_copyright"

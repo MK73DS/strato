@@ -25,8 +25,8 @@
     <string name="emulator">Emulator</string>
     <string name="search_location">Lokacja Wyszukiwania</string>
     <string name="open_data_directory">Zobacz katalog wewnętrzny</string>
-    <string name="open_data_directory_summary">Otwiera wewnętrzny katalog Skyline\'a w menedżerze plików</string>
-    <string name="failed_open_directory">Nie udało się znaleźć zewnętrznego menedżera plików, aby otworzyć wewnętrzny katalog Skyline\'a</string>
+    <string name="open_data_directory_summary">Otwiera wewnętrzny katalog Strato\'a w menedżerze plików</string>
+    <string name="failed_open_directory">Nie udało się znaleźć zewnętrznego menedżera plików, aby otworzyć wewnętrzny katalog Strato\'a</string>
     <string name="theme">Motyw</string>
     <string name="layout_type">Układ wyświetlanych gier</string>
     <string name="sort_apps_by">Kolejność sortowania gier</string>
@@ -196,14 +196,14 @@
     <string name="credits">Podziękowania</string>
     <!-- Licenses -->
     <string name="licenses">Licencje</string>
-    <string name="skyline_license_description">Skyline używa licencji Mozilla Public License 2.0</string>
-    <string name="ryujinx_description">Ryujinx był niejednokrotnie użyty jako wzór z powodu jego bardzo dokładnie działających implementacji\n\n<b>Uwaga: Skyline nie jest bazowany na Ryujinx\'ie</b></string>
-    <string name="shader_compiler_description">Kompilator shaderów Skyline\'a jest <b>zmodyfkowaną wersją</b> kompilatora należącego do <i>Yuzu</i>ze specyficznymi zmianami pod użytek Skyline\'a. Inne zmiany są dzielone między projektami co pozwala obu korzystać z jego rozwoju.\n\n
-<b>Uwaga:</b> Użytek kompilatora w Skyline jest możliwy tylko dzięki wyjątkowi licencji nadanemu Skyline\'owi przez twórców <i>Yuzu</i></string>
-    <string name="sirit_description">Kompilator shaderów Skyline\'a wewnętrznie używa Sirit by przesyłać SPIR-V w efektywny sposób</string>
+    <string name="strato_license_description">Strato używa licencji Mozilla Public License 2.0</string>
+    <string name="ryujinx_description">Ryujinx był niejednokrotnie użyty jako wzór z powodu jego bardzo dokładnie działających implementacji\n\n<b>Uwaga: Strato nie jest bazowany na Ryujinx\'ie</b></string>
+    <string name="shader_compiler_description">Kompilator shaderów Strato\'a jest <b>zmodyfkowaną wersją</b> kompilatora należącego do <i>Yuzu</i>ze specyficznymi zmianami pod użytek Strato\'a. Inne zmiany są dzielone między projektami co pozwala obu korzystać z jego rozwoju.\n\n
+<b>Uwaga:</b> Użytek kompilatora w Strato jest możliwy tylko dzięki wyjątkowi licencji nadanemu Strato\'owi przez twórców <i>Yuzu</i></string>
+    <string name="sirit_description">Kompilator shaderów Strato\'a wewnętrznie używa Sirit by przesyłać SPIR-V w efektywny sposób</string>
     <string name="vkhpp_description">Vulkan-Hpp dostarcza interfejs programistyczny C++ dla Vulkan</string>
     <string name="vkma_description">Vulkan Memory Alloxator dostarcza wysokiej jakości alokator pamięci GPU ze wsparciem dla UMA</string>
-    <string name="khvkval_description">Vulkan Validation Layer Khronos\'a dostarcza możliwość sprawdzania błędów dla wysyłanych sygnałów środowiska Vulkan\'a w wersjach Skyline do debugowania</string>
+    <string name="khvkval_description">Vulkan Validation Layer Khronos\'a dostarcza możliwość sprawdzania błędów dla wysyłanych sygnałów środowiska Vulkan\'a w wersjach Strato do debugowania</string>
     <string name="oboe_description">Oboe jest użyte do wydalania wysokiej jakości dźwięków</string>
     <string name="perfetto_description">Perfetto jest użyte do sprawdzania i debugowania z dokładnym śledzeniem</string>
     <string name="fmtlib_description">{fmt} dostarcza nowoczesne formatowanie ścieżek dla środowiska C++</string>

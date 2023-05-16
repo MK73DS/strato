@@ -1,9 +1,9 @@
-# Skyline Proguard Rules
+# Strato Proguard Rules
 # For more details, see
 #   http://developer.android.com/guide/developing/tools/proguard.html
 
-# Retain all classes within Skyline for traces + JNI access + Serializable classes
--keep class emu.skyline.** { *; }
+# Retain all classes within Strato for traces + JNI access + Serializable classes
+-keep class emu.strato.** { *; }
 # Keep kotlin classes so that kotlin reflection works
 -keep class kotlin.** {*;}
 

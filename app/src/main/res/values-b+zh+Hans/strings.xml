@@ -25,8 +25,8 @@
     <!-- Settings - Content -->
     <string name="content">内容</string>
     <string name="open_data_directory">查看内部目录</string>
-    <string name="open_data_directory_summary">在文件管理器中打开 Skyline 的内部目录</string>
-    <string name="open_data_directory_failed">找不到外部文件管理器来打开 Skyline 的内部目录</string>
+    <string name="open_data_directory_summary">在文件管理器中打开 Strato 的内部目录</string>
+    <string name="open_data_directory_failed">找不到外部文件管理器来打开 Strato 的内部目录</string>
     <string name="search_location">搜索位置</string>
     <!-- Settings - Keys -->
     <string name="keys">Keys文件</string>
@@ -213,10 +213,10 @@
     <string name="credits">贡献榜</string>
     <!-- Licenses -->
     <string name="licenses">许可证</string>
-    <string name="skyline_license_description">Skyline在Mozilla公共许可证2.0下获得许可</string>
-    <string name="ryujinx_description">由于 Ryujinx 的实现非常准确，因此在整个项目中都被用作参考\n\n<b>注意：Skyline 不是基于 Ryujinx</b></string>
-    <string name="shader_compiler_description">Skyline 的着色器编译器是<b>分支</b>的<i>yuzu</i>具有 Skyline 特定更改的着色器编译器，而其他更改在它们之间共享，允许两个项目从它的开发中受益\n\n<b>注意：</b>只有在 Skyline 授予许可豁免的情况下，才能在 Skyline 中使用它。<i>yuzu</i>团队</string>
-    <string name="sirit_description">Skyline 的着色器编译器在内部使用 Sirit 以高效的方式发出 SPIR-V</string>
+    <string name="strato_license_description">Strato在Mozilla公共许可证2.0下获得许可</string>
+    <string name="ryujinx_description">由于 Ryujinx 的实现非常准确，因此在整个项目中都被用作参考\n\n<b>注意：Strato 不是基于 Ryujinx</b></string>
+    <string name="shader_compiler_description">Strato 的着色器编译器是<b>分支</b>的<i>yuzu</i>具有 Strato 特定更改的着色器编译器，而其他更改在它们之间共享，允许两个项目从它的开发中受益\n\n<b>注意：</b>只有在 Strato 授予许可豁免的情况下，才能在 Strato 中使用它。<i>yuzu</i>团队</string>
+    <string name="sirit_description">Strato 的着色器编译器在内部使用 Sirit 以高效的方式发出 SPIR-V</string>
     <string name="vkhpp_description">Vulkan-Hpp 为 Vulkan 提供了一个 C++ API</string>
     <string name="vkma_description">Vulkan Memory Allocator 提供具有 UMA 支持的高质量 GPU 内存分配器</string>
     <string name="khvkval_description">Khronos 的 Vulkan 验证层为调试版本中的 Vulkan API 调用提供错误检查</string>

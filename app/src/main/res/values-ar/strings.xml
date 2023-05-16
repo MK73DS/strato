@@ -185,7 +185,7 @@
     <string name="credits">الاعتمادات</string>
     <!-- Licenses -->
     <string name="licenses">التراخيص</string>
-    <string name="skyline_license_description">سكاي لاين مرخصة من طرف Mozilla Public License 2.0</string>
+    <string name="strato_license_description">سكاي لاين مرخصة من طرف Mozilla Public License 2.0</string>
     <string name="ryujinx_description">تم استخدام Ryujinx كمرجع في جميع مراحل المشروع نظرًا لما تتميز به من دقة عالية في التنفيذ n/n<b> ملاحضة: سكاي لاين ليس مبنيا بلإعتماد على Ryujinx </b></string>
     <string name="shader_compiler_description">مترجم تظليل سكاي لاين هو<b> تفرع من مترجم</b> تظليل<i> yuzu</i> مع تغييرات خاصة بسكاي لاين بينما تتم مشاركة التغييرات الأخرى بينهما مما يسمح لكلا المشروعين بالاستفادة من تطويره n/n<b>ملاحضة:</b>إستعماله في سكاي لاين هو ممكن فقط بسبب الموافقة الحاصل عليها سكاي لاين من طرف فريق yuzu</string>
     <string name="sirit_description">مترجم تظليل سكاي لاين يستخدم Sirit بشكل داخلي لإصدار SPIR-V بطريقة فعالة</string>
